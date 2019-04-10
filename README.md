@@ -6,7 +6,6 @@ Document templates for Calc, Impress, and Writer
 
 ## Calc
 
-
 | Document          | Image source  | License       | Uploader      |
 | ----------------- | ------------- | ------------- | ------------- |
 |                   |               |               |               |
@@ -14,6 +13,7 @@ Document templates for Calc, Impress, and Writer
 ## Impress
 
 **wissenschaftsprojekt.odp**
+
 | Number | Image source  | License       | Uploader      |
 | -------| ------------- | ------------- | ------------- |
 | 1      | https://www.pexels.com/photo/top-view-photo-of-person-putting-sugar-cubes-on-cup-1811989/ | Pexels License | rawpixel |
@@ -25,6 +25,7 @@ Document templates for Calc, Impress, and Writer
 ## Writer
 
 **aufsatz_verspielt.odt**
+
 | Number | Image source  | License       | Uploader      |
 | -------| ------------- | ------------- | ------------- |
 | 1      | https://publicdomainq.net/cat-animal-0008677/ | Public Domain | - |
