@@ -39,16 +39,11 @@ Document templates for Calc, Impress, and Writer
 
 | Number | Image source  | License       | Uploader      |
 | -------| ------------- | ------------- | ------------- |
-| 1      | https://www.pexels.com/photo/african-buffalo-animal-animal-photography-buffalo-624063/
- | Pexels License | Frans Van Heerden |
-| 2      | https://www.pexels.com/photo/7-elephants-walking-beside-body-of-water-during-daytime-59989/
- | Pexels License | Pixabay |
-| 3      | https://www.pexels.com/photo/zebras-on-zebra-247376/
- | Pexels License | Pixabay |
-| 4      | https://www.pexels.com/photo/nature-africa-wilderness-lion-47036/
- | Pexels License | Pixabay |
-| 5      | https://www.pexels.com/photo/black-chimpanzee-smiling-50582/
- | Pexels License | Pixabay |
+| 1      | https://www.pexels.com/photo/african-buffalo-animal-animal-photography-buffalo-624063/ | Pexels License | Frans Van Heerden |
+| 2      | https://www.pexels.com/photo/7-elephants-walking-beside-body-of-water-during-daytime-59989/ | Pexels License | Pixabay |
+| 3      | https://www.pexels.com/photo/zebras-on-zebra-247376/ | Pexels License | Pixabay |
+| 4      | https://www.pexels.com/photo/nature-africa-wilderness-lion-47036/ | Pexels License | Pixabay |
+| 5      | https://www.pexels.com/photo/black-chimpanzee-smiling-50582/ | Pexels License | Pixabay |
 
 ## Writer
 
