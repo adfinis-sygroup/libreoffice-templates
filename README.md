@@ -57,5 +57,4 @@ Document templates for Calc, Impress, and Writer
 
 | Number | Image source  | License       | Uploader      |
 | -------| ------------- | ------------- | ------------- |
-| 1      | https://de.wikipedia.org/wiki/Homo_faber_%28Roman%29
- | Creative Commons Attribution/Share Alike | Wikipedia |
+| 1      | https://de.wikipedia.org/wiki/Homo_faber_%28Roman%29 | Creative Commons Attribution/Share Alike | Wikipedia |
