@@ -6,7 +6,7 @@ Document templates for Calc, Impress, and Writer
 
 ## Impress
 
-**wissenschaftsprojekt.odp**
+**wissenschaftsprojekt.otp**
 
 | Number | Image source  | License       | Uploader      |
 | -------| ------------- | ------------- | ------------- |
@@ -47,7 +47,7 @@ Document templates for Calc, Impress, and Writer
 
 ## Writer
 
-**aufsatz_verspielt.odt**
+**aufsatz_verspielt.ott**
 
 | Number | Image source  | License       | Uploader      |
 | -------| ------------- | ------------- | ------------- |
