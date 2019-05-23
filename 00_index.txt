@@ -1,0 +1,10 @@
+# This is a template directory for Collabora Office Mobile
+https://adfinis-sygroup.github.io/libreoffice-templates/calc/anwesenheiten.ots
+https://adfinis-sygroup.github.io/libreoffice-templates/calc/einfache_tabelle.ots
+https://adfinis-sygroup.github.io/libreoffice-templates/impress/geografie_afrikanische_tierwelt.otp
+https://adfinis-sygroup.github.io/libreoffice-templates/impress/produkt_vorstellung.otp
+https://adfinis-sygroup.github.io/libreoffice-templates/impress/geschäftsvorschlag.otp
+https://adfinis-sygroup.github.io/libreoffice-templates/impress/wissenschaftsprojekt.otp
+https://adfinis-sygroup.github.io/libreoffice-templates/writer/business_letter_geometric.ott
+https://adfinis-sygroup.github.io/libreoffice-templates/writer/arbeit_homo_faber.ott
+https://adfinis-sygroup.github.io/libreoffice-templates/writer/aufsatz_verspielt.ott
